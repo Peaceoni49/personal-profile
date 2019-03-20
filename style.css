@@ -1,0 +1,52 @@
+ *,html
+ body
+{
+margin:2;
+padding:1;
+color: 65;
+background-image: image(https://www.google.com/search?q=background+image&safe=strict&tbm=isch&source=iu&ictx=1&fir=1jI8KfBAIew6tM%253A%252Crxjg7gXK1zycAM%252C_&vet=1&usg=AI4_-kR-xNjdRLMj_wRLm3F2avnRiwTZiw&sa=X&ved=2ahUKEwi74uOwnYzhAhWQRRUIHTZhBZgQ9QEwC3oECAQQGg#imgdii=SnMJZ0cHMcE00M:&imgrc=1jI8KfBAIew6tM:&vet=1);
+
+
+}
+
+}
+
+header
+ul
+{
+  background-color: darkturquoise;
+  list-style: none;
+
+}
+ul li{
+  display: inline-block;
+  float: right;
+
+}
+
+header nav ul li a{
+  padding-right: 30px;
+
+}
+
+header nav ul li a:hover{
+    text-decoration: none;
+}
+
+ h1
+ {
+   background-position: center;
+   background-color: red;
+   font-family: fantasy;
+   margin-left:
+ }
+
+p{
+  width: 80%;
+  margin: 10vh 10vw;
+  font-size:1.5rem;
+  font-style: Lucida Console;
+  background-color: white;
+
+
+}
